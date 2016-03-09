@@ -2,14 +2,14 @@
     <channel>
         <title><![CDATA[Cameron]]></title>
         <description><![CDATA[Cameron]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cameron/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 05:10:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 05:10:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cameron/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8aa3a33-26a1-4e0e-a23c-c75a43f2a12d.jpg">]]></description>
-            <link>undefinedfe173505-87a8-4bca-9de9-7dedf9bc6e4e/index.html</link>
+            <link>https://thegrid.ai/cameron/fe173505-87a8-4bca-9de9-7dedf9bc6e4e/index.html</link>
             <guid isPermaLink="false">fe173505-87a8-4bca-9de9-7dedf9bc6e4e</guid>
             <pubDate>Wed, 09 Mar 2016 05:08:42 GMT</pubDate>
         </item>
